@@ -3,7 +3,7 @@
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
   <div key="1">
-    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=min95913@naver.com width="280" height="140" alt="baekjoon" />
+    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=min95913 width="280" height="140" alt="baekjoon" />
     <img src=http://mazandi.herokuapp.com/api?handle=min95913&theme=warm width="285" height="140" alt="solved" />
   </div>
   
