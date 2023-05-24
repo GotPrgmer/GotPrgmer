@@ -7,7 +7,9 @@
     <img src=http://mazandi.herokuapp.com/api?handle=min95913&theme=warm width="285" height="140" alt="solved" />
     <img src=https://github-readme-stats.vercel.app/api?username=GotPrgmer&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
   </div>
+  
   ![jandi_log](./profile-3d-contrib/profile-green-animate.svg)
+  
   <div key="2">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&theme=gruvbox width="280" height=270 alt="MUL" />
   </div>
