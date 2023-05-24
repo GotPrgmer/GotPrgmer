@@ -1,6 +1,6 @@
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text='Welcome To MinJun'%20render&fontSize=90)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
