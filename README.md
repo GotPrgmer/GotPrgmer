@@ -49,9 +49,10 @@
 2.이력2</p>
     </div>
   </div>
+<div key="5">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&theme=gruvbox width="280" height=270 alt="MUL" />
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&layout=compact)](https://github.com/GotPrgmer/github-readme-stats)
-
+  </div>
   <div key="6">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
     <div align=center> 
