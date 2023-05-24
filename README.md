@@ -50,7 +50,7 @@
     </div>
   </div>
 <div key="5">
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&theme=gruvbox width="280" height=270 alt="MUL" />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&layout=compact&theme=gruvbox width="280" height=270 alt="MUL" />
 
   </div>
   <div key="6">
