@@ -13,7 +13,7 @@
   
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&theme=gruvbox width="280" height=270 alt="MUL" />
-    ![](./profile-3d-contrib/profile-green-animate.svg)
+    ![jandi_log](./profile-3d-contrib/profile-green-animate.svg)
   </div>
   
   <div key="4">
