@@ -5,23 +5,19 @@
   <div key="1">
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=min95913 width="280" height="140" alt="baekjoon" />
     <img src=http://mazandi.herokuapp.com/api?handle=min95913&theme=warm width="285" height="140" alt="solved" />
-  </div>
-  
-  <div key="2">
     <img src=https://github-readme-stats.vercel.app/api?username=GotPrgmer&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
   </div>
-  
   ![jandi_log](./profile-3d-contrib/profile-green-animate.svg)
-  <div key="3">
+  <div key="2">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&theme=gruvbox width="280" height=270 alt="MUL" />
   </div>
   
-  <div key="4">
+  <div key="3">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
     <div ></div>
   </div>
   
-  <div key="5">
+  <div key="4">
     <h3 style ="font-size : 2em; font-weight:700;">💙Contact💙</h3>
     <div className=Preview_contactBadgeDiv__3demU>
       <a href=mailto:gofiction95@gmail.com@gmail.com target="_blank">
@@ -39,7 +35,7 @@
     </div>
   </div>
   
-  <div key="6">
+  <div key="5">
     <a href = "https://oreuda.kr/">
       <img
         src=https://oreuda.kr/api/v1/plant/card?nickname=GotPrgmer
@@ -48,7 +44,7 @@
     </a>
   </div>
   
-  <div key="7" >
+  <div key="6" >
     <div key=0 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
           이력
