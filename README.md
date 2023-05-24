@@ -95,7 +95,6 @@
     <img src=https://github-readme-stats.vercel.app/api?username=GotPrgmer&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
   </div>
   
-  ![jandi_log](./profile-3d-contrib/profile-green-animate.svg)
   
   
   
