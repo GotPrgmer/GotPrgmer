@@ -11,9 +11,9 @@
     <img src=https://github-readme-stats.vercel.app/api?username=GotPrgmer&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
   </div>
   
+  ![jandi_log](./profile-3d-contrib/profile-green-animate.svg)
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&theme=gruvbox width="280" height=270 alt="MUL" />
-    ![jandi_log](./profile-3d-contrib/profile-green-animate.svg)
   </div>
   
   <div key="4">
