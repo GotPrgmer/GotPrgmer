@@ -37,19 +37,19 @@
           <h3 style ="font-size : 1.5em; font-weight:700;">
           Experience
           </h3>
-          <p style ="font-size : 20px;">1. 2023.08 ~ 현재  삼성 청년 SW 아카데미 8기 재학중
-2. 이력2
-3. 이력3</p>
+          <div style ="font-size : 20px;">1. 2023.08 ~ 현재  삼성 청년 SW 아카데미 8기 재학중
+            <div style ="font-size : 20px;">2. 이력2</div>
+<div style ="font-size : 20px;">3. 이력3</div>
     </div>
   </div>
   
   <div key="4" >
     <div key=1 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
-          이력2
+          Awards / Certificates
           </h3>
-          <p style ="font-size : 20px;">1.이력1
-2.이력2</p>
+          <div style ="font-size : 20px;">1.마이크로소프트 AI해커톤 Top 11</div>
+      <div style ="font-size : 20px;">2.정보처리기사</div>
     </div>
   </div>
 <div key="5">
