@@ -35,9 +35,9 @@
   <div key="3" >
     <div key=0 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
-          이력
+          Experience
           </h3>
-          <p style ="font-size : 20px;">1. 이력1
+          <p style ="font-size : 20px;">1. 2023.08 ~ 현재  삼성 청년 SW 아카데미 8기 재학중
 2. 이력2
 3. 이력3</p>
     </div>
