@@ -38,8 +38,6 @@
           Experience
           </h3>
           <div style ="font-size : 20px;">1. 2023.08 ~ 현재  삼성 청년 SW 아카데미 8기 재학중
-            <div style ="font-size : 20px;">2. 이력2</div>
-<div style ="font-size : 20px;">3. 이력3</div>
     </div>
   </div>
   
