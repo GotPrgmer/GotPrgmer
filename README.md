@@ -48,6 +48,7 @@
           </h3>
           <div style ="font-size : 20px;">1.마이크로소프트 AI해커톤 Top 11</div>
       <div style ="font-size : 20px;">2.정보처리기사</div>
+       <div style ="font-size : 20px;">삼성 청년 SW 아카데미 모의 A형 취득</div>
     </div>
   </div>
 <div key="5">
