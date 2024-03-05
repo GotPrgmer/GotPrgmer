@@ -3,7 +3,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=김민준의%20깃허브&descAlign=70.&descAlignY=44)
 
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
-  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
   <div key="1">
     <h3 style ="font-size : 2em; font-weight:700;">💙Contact💙</h3>
@@ -23,14 +22,6 @@
     </div>
   </div>
   
-  <div key="2">
-    <a href = "https://oreuda.kr/">
-      <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=GotPrgmer
-        alt="oreuda"
-      />
-    </a>
-  </div>
   
   <div key="3" >
     <div key=0 >
