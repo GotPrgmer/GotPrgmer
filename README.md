@@ -16,9 +16,6 @@
       <a href=https://velog.io/@min95913 target="_blank">
             <img src=https://img.shields.io/badge/TechBlog-7FD2F5?style=flat&logo=Hoppscotch&logoColor=white&link=https://velog.io/@min95913/ alt="blog" />
           </a>
-      <a href=https://www.notion.so/23d48e34b85a404c86251d47c602dbbf target="_blank">
-            <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/23d48e34b85a404c86251d47c602dbbf/ alt="notion" />
-          </a>
     </div>
   </div>
   
