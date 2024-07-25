@@ -49,7 +49,6 @@
           Awards / Certificates
           </h3>
        <div style ="font-size : 20px;"> https://github.com/tony9402/baekjoon </div>
-    </div>
   </div>
 
   </div>
