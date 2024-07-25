@@ -46,7 +46,7 @@
   
 <div key=1 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
-          Awards / Certificates
+          Contributions
           </h3>
        <div style ="font-size : 20px;"> https://github.com/tony9402/baekjoon </div>
   </div>
