@@ -25,7 +25,7 @@
           <h3 style ="font-size : 1.5em; font-weight:700;">
           Experience
           </h3>
-          <div style ="font-size : 20px;">1. 2022.07 ~ 2023.07 삼성 청년 SW 아카데미 8기
+          <div style ="font-size : 20px;">1. 2022.07 ~ 2023.07 삼성 청년 SW 아카데미 8기 </div>
     </div>
   </div>
   
@@ -41,16 +41,16 @@
   </div>
 <div key="5">
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GotPrgmer&layout=compact&theme=gruvbox width="280" height=270 alt="MUL" />
-
+</div>
 <div key="6">
+  
 <div key=1 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
           Awards / Certificates
           </h3>
        <div style ="font-size : 20px;"> https://github.com/tony9402/baekjoon </div>
     </div>
-  
-</div>
+  </div>
 
   </div>
   <div key="7">
